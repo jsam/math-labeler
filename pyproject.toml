@@ -18,6 +18,9 @@ tifffile = "^2021.4.8"
 tqdm = "^4.60.0"
 torch = "^1.8.1"
 torchvision = "^0.9.1"
+opencv-python = "^4.5.2"
+jupyter = "^1.0.0"
+ipywidgets = "^7.6.3"
 
 [tool.poetry.dev-dependencies]
 

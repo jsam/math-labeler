@@ -5,3 +5,6 @@ data/Readme-GT.txt filter=lfs diff=lfs merge=lfs -text
 data/ground_truth filter=lfs diff=lfs merge=lfs -text
 data/image filter=lfs diff=lfs merge=lfs -text
 data/metadata filter=lfs diff=lfs merge=lfs -text
+notebooks/faster_rcnn_1e.pth filter=lfs diff=lfs merge=lfs -text
+notebooks/faster_rcnn_50e.pth filter=lfs diff=lfs merge=lfs -text
+notebooks/faster_rcnn_5e.pth filter=lfs diff=lfs merge=lfs -text
